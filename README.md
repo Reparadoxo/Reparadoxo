@@ -55,7 +55,7 @@ Curioso, persistente e apaixonado por construir coisas do zero — cada novo pro
 🔗 Como me achar
 
 - LinkedIn: https://github.com/Reparadoxo  
-- Email: joaofe.mokdse\u0040gmail.com  
+- Email: joaofe.mokdse@gmail.com  
 
 ---
 
