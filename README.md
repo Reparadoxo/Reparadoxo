@@ -11,8 +11,8 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 
 - Aprimorando minhas habilidades em Front-End com HTML, CSS e JavaScript  
 - Estudando lógica de programação e estruturas de dados em C  
-- Fazendo pequenos scripts em Python para praticar  
-- Me aprofundando em conceitos iniciais de banco de dados (SQL)
+- Fazendo alguns projetos em Python para praticar  
+- Me aprofundando em conceitos de banco de dados (SQL)
 
 ---
 
