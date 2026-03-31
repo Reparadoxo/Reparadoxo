@@ -43,8 +43,8 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 
 📊 Minhas estatísticas no GitHub
 
-[![Reparadoxo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reparadoxo&show_icons=true&theme=tokyonight)](https://github.com/Chartreuse-del)  
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Reparadoxo&layout=compact&theme=tokyonight)](https://github.com/Chartreuse-del)
+[![Reparadoxo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chartreuse-del&show_icons=true&theme=tokyonight)](https://github.com/Chartreuse-del)  
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Chartreuse-del&layout=compact&theme=tokyonight)](https://github.com/Chartreuse-del)
 
 ---
 
@@ -60,7 +60,7 @@ Curioso, persistente e apaixonado por construir coisas do zero — cada novo pro
 
 🔗 Como me achar
 
-- LinkedIn: https://github.com/Reparadoxo  
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-felipe-mokdse-costa  
 - Email: joaofe.mokdse@gmail.com  
 
 ---
