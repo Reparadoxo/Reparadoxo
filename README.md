@@ -43,8 +43,8 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 
 📊 Minhas estatísticas no GitHub
 
-[![Reparadoxo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reparadoxo&show_icons=true&theme=tokyonight)](https://github.com/Reparadoxo)  
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Reparadoxo&layout=compact&theme=tokyonight)](https://github.com/Reparadoxo)
+[![Reparadoxo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reparadoxo&show_icons=true&theme=tokyonight)](https://github.com/Chartreuse-del)  
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Reparadoxo&layout=compact&theme=tokyonight)](https://github.com/Chartreuse-del)
 
 ---
 
@@ -70,7 +70,7 @@ Curioso, persistente e apaixonado por construir coisas do zero — cada novo pro
 
 
 <!--
-**Reparadoxo/Reparadoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chartreuse-del/Chartreuse-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
