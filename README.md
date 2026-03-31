@@ -43,8 +43,10 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 
 📊 Minhas estatísticas no GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Chartreuse-del&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chartreuse-del&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chartreuse-del&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chartreuse-del&layout=compact"/>
+</p>
 
 ---
 
