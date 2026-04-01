@@ -63,11 +63,11 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 
 🕹️ Um pouco sobre mim
 
-Jogador de indies como *Deltarune*, sempre em busca de histórias novas e desafiadoras,  
-Leitor ávido de livros de programação para aprender mais e de fantasia para alimentar a imaginação,  
+Jogador de indies como *Deltarune*, sempre em busca de testar a lógica e me desafiar,  
+Leitor de livros de programação para aprender mais e de fantasia para alimentar a imaginação,  
 E consumidor constante de vídeos de tecnologia para me manter atualizado.
 
-Curioso, persistente e apaixonado por construir coisas do zero — cada novo projeto é uma oportunidade de crescer.
+Curioso e apaixonado por construir coisas do zero — cada novo projeto é uma oportunidade de crescer como programador.
 
 ---
 
@@ -81,7 +81,6 @@ Curioso, persistente e apaixonado por construir coisas do zero — cada novo pro
 > “A mente é como um paraquedas, só funciona se estiver aberta. ”  
 🌟 Um commit de cada vez, sempre evoluindo.
 
-&cache_seconds=10
 <!--
 **Chartreuse-del/Chartreuse-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
